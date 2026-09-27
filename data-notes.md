@@ -56,3 +56,12 @@ multipart_count(Real), source(string), date(string), area_sqkm(Real).
 ### All layers clipped to study area, then reprojected to EPSG:32632 (UTM 32N)
 - Area check: Dutsi LGA 370 km2, matches published figure
 - Working files in data/processed/, raw files untouched
+
+
+
+## CRS and preparation
+- All source layers arrived in EPSG:4326
+- Study area: Dutsi, extracted from GRID3 LGAs
+### All layers clipped to study area, then reprojected to EPSG:32632 (UTM 32N)
+- Area check: Dutsi LGA 370 km2, matches published figure
+- Working files in data/processed/, raw files untouched
