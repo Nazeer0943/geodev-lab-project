@@ -9,5 +9,13 @@ I was suprised to see that the dissolved result of the buffer covered the entire
 What surprised you  
 # 5. What data you still need 'NA
 
+Week 3 Quality Checks Performed:
+
+CRS Verification: Checked that all layers were successfully reprojected from geographic coordinates (EPSG:4326) to projected meters (EPSG:32632 - UTM Zone 32N) to allow accurate area and distance measurements.
+
+Geometry Check: Inspected polygon boundaries for self-intersections, gaps, or invalid geometries before running the buffer.
+
+Attribute Integrity: Verified that the attribute tables for the wards and health facility points retained all required fields after clipping and exporting.
+
 
 "Conclusion: Based on the 5 km buffer analysis around health facilities in Dutsi LGA, all wards fall within the 5 km service coverage zone, meaning there are no underserved wards according to this threshold."

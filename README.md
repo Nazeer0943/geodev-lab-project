@@ -1,3 +1,5 @@
+# **Nazir Sani, Pod 12**
+
 # Geodev Lab Africa - Month 1 Project
 
 **Core Research Question:** Which wards in Dutsi LGA, Katsina State, are more than 5 km from a health facility?
@@ -22,3 +24,8 @@ Built with GeoDev Lab Africa, Cohort One. This repository compiles a complete fo
 * **Week 4: Analysis & Final Summary**
   * [`month-1-summary.md`](./month-1-summary.md) — Final findings and spatial analysis write-up.
   * [`5KM_Clinics_buffer_Dutsi.png`](./5KM_Clinics_buffer_Dutsi.png) — Final map image showing the 5 km buffer analysis around health facilities.
+
+
+  ## Month 2: development environment and early Python
+
+- Week 5: set up Python, VS Code and the terminal. hello.py runs.
