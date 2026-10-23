@@ -1,5 +1,10 @@
-ward,area_km2
-Agodi,12.5
-Bodija,8.1
-Sabo,5.7
-Mokola,9.3
+ward,area_km2,Pop
+Agodi,12.5,10000
+Bodija,8.1,8000
+Sabo,5.7,6000
+Mokola,9.3,9000
+Musa,8.9,8500
+Yusuf,7.4,7000
+Makinde,6.2,6500
+Sango,10.5,
+Pelumi,11.8,11500

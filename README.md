@@ -35,3 +35,7 @@ Built with GeoDev Lab Africa, Cohort One. This repository compiles a complete fo
 
 - Week 7: analyse.py reads wards.csv, converts each
 area and classifies each ward.
+
+- Week 8: I have added a few more rows to my wards.csv file coupled with another field in number(Pop) to enable me conduct the summarization. One value from the Pop column was intentionally removed so that the concept of break could be tested.  
+I tried the final code returning the smallest, largest and the count of the two number columns as instructed (area_km2 and Pop)
+
