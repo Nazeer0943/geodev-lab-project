@@ -11,7 +11,7 @@ def inspect_column(file_name, column):
         # I intentionally remove one value from the Pop column to test the continue concept below. This is to ensure that the code can handle missing values without crashing.
         if value == "":
             continue
-        values.append(value)
+        values.append(float(value))
     return {"Smallest": min(values), "Largest": max(values), "Count": len(values)}
 
 

@@ -1,0 +1,3 @@
+(geodev-lab-project) PS C:\My_GIS_Projects\geodev-lab-project> uv run inspect_data.py
+{'Smallest': 5.7, 'Largest': 12.5, 'Count': 9}
+{'Smallest': 6000.0, 'Largest': 11500.0, 'Count': 8}
