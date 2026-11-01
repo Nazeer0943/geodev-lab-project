@@ -43,3 +43,8 @@ rows = read_rows("wards.csv")
 values = clean_values(rows, "Pop")
 result = summarize_values(values)
 print(result)
+# trying this again on a different newly formed file
+rows = read_rows("katsina_LGAs_and_Pop.csv")
+values = clean_values(rows, "Total")
+result = summarize_values(values)
+print(result)
