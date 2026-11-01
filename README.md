@@ -43,5 +43,5 @@ Built with GeoDev Lab Africa, Cohort One. This repository compiles a complete fo
 
 ### Month 2 Reflection
 
-This month, the concept of writing reusable functions and handling tabular data structures finally clicked for me. Debugging data types—specifically fixing an issue where the LGA code field in my population CSV was a string instead of an integer during my attribute join—remains a bit tricky, but working through it helped me understand data cleaning deeply. My capstone analysis on the merged Katsina State dataset reveals that combining projected polygon areas (`Area_km2`) with official population figures provides a much more robust foundation for regional demographic studies than using practice data.
+This month, the concept of writing reusable functions and handling tabular data structures finally clicked for me. Because of an instruction I saw lately on making sure the  functions works on actual data not on the wards.csv,  I had to use a "select features by expression in QGIS" extracted  LGAs in Katsina from the LGAs boundry and merge them with a population data via an attribute join, which I did beautifully, it did not work at the first place because the LGA code from the population data was a string not a number, but after using a field calculator and creating another LGA Code field as int, if tinally worked. 
 
