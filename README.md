@@ -44,3 +44,7 @@ Built with GeoDev Lab Africa, Cohort One. This repository compiles a complete fo
 ### Month 2 Reflection
 
 This month, the concept of writing reusable functions and handling tabular data structures finally clicked for me. Because of an instruction I saw lately on making sure the  functions works on actual data not on the wards.csv,  I had to use "Select features by expression in QGIS" to extract LGAs in Katsina from the LGA boundary and merge them with population data via an attribute join, which I did beautifully. It did not work at first because the LGA code field from the population CSV file was a string, not a number, but after using a field calculator and creating another LGA Code field as an integer, it finally worked.
+
+
+## Month 3: geospatial Python and automation heading
+- Week 10: GeoPandas. Loaded, checked, joined and mapped my health_facilities layer in code.
