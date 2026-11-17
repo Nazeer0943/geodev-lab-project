@@ -48,3 +48,4 @@ This month, the concept of writing reusable functions and handling tabular data 
 
 ## Month 3: geospatial Python and automation heading
 - Week 10: GeoPandas. Loaded, checked, joined and mapped my health_facilities layer in code.
+- Week 11: CRS checks and spatial operations
